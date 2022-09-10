@@ -1,3 +1,3 @@
-# password_cracker_python
+# Password-Cracking
 
-GUI based program which allows to crack any password within a 4 digit range using Brute Force Searching Algorithm
+The project is an implementation of a very basic password cracking brute-force algorithms. The application is limited to just 4 digits as the complexity for the brute force algorithm increases exponentially with the increase in number of digits. The application just serves as a basic platform to integrate a password cracking strategy with a GUI interface and can be improved from a simple technique like brute force.
